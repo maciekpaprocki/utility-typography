@@ -25,3 +25,11 @@
   padding-left: 0;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
+.nounderline {
+    text-decoration: none;
+}
+
